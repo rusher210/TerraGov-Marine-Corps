@@ -121,3 +121,6 @@
   - bugfix: Fixed a hugger timer runtime
   - bugfix: Fixed reloading runtiming if you try to load a non magazine into a gun
   - bugfix: Fixed drone link double del
+2023-06-13:
+  ivanmixo:
+  - bugfix: Fixed slight issue in hivemind prompt
